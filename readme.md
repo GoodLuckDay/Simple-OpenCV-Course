@@ -1,8 +1,11 @@
-#OpenCV 공부하기
+# OpenCV 공부하기
 
 ## 개요
-인프런 OpvenCV 를 활용한 명함인식 기능 구현 강좌를 이용하여 OpenCV를 공부하기 위해 만든 Git 저장소. <br>
-강의를 보고 따라 한 예습 코드를 Git에 업로드 하여 관리를 할려고 한다.
+<pre>
+OpenCV(Open Source Computer Vision)은 Computer Vision 관련 프로그래밍을 쉽게 할 수 있도록 도와주는 오픈소스 컴퓨터 비전 라이브러리입니다.
+Window, 리눅스 등 플랫폼에서 사용할 수 있는 실시간 이미지 프로세싱에 중점을 둔 라이브러리이고 인프런에서 공부한 소스 코드를 GIT 저장소에서
+관리를 할려고 합니다. 
+</pre>
 
 ## Session
 > 1. 이미지 읽기, 쓰기

@@ -102,3 +102,7 @@ venv.bak/
 
 # mypy
 .mypy_cache/
+
+#My localImages
+/images/Test1.jpg
+/images/Test2.jpg
