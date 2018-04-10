@@ -1,11 +1,12 @@
 # OpenCV 공부하기
 
+![OpenCVImage](https://ko.wikipedia.org/wiki/OpenCV#/media/File:OpenCV_Logo_with_text.png)
+
 ## 개요
-<pre>
-OpenCV(Open Source Computer Vision)은 Computer Vision 관련 프로그래밍을 쉽게 할 수 있도록 도와주는 오픈소스 컴퓨터 비전 라이브러리입니다.
-Window, 리눅스 등 플랫폼에서 사용할 수 있는 실시간 이미지 프로세싱에 중점을 둔 라이브러리이고 인프런에서 공부한 소스 코드를 GIT 저장소에서
-관리를 할려고 합니다. 
-</pre>
+
+OpenCV(Open Source Computer Vision)은 Computer Vision 관련 프로그래밍을 쉽게 할 수 있도록 도와주는 오픈소스 컴퓨터 비전 라이브러리입니다.<br>
+Window, 리눅스 등 플랫폼에서 사용할 수 있는 실시간 이미지 프로세싱에 중점을 둔 라이브러리이고 인프런에서 공부한 소스 코드를 GIT 저장소에서 관리를 할려고 합니다. <br>
+
 
 ## Session
 > 1. 이미지 읽기, 쓰기
