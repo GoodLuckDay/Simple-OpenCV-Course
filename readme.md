@@ -11,7 +11,7 @@ OpenCV(Open Source Computer Vision)은 Computer Vision 관련 프로그래밍을
 
 
 ## Session
-> 1. 이미지 읽기, 쓰기
+> 1. [이미지 읽기, 쓰기](https://github.com/GoodLuckDay/OpenCV-Study/blob/master/%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%9D%BD%EA%B3%A0%20%EC%93%B0%EA%B8%B0/ImageReading1.py)
 > 2. 명함 이미지로 부터 외곽 추출하기
 > 3. 외곽으로부터 그려진 영역 반듯하게 변환
 > 4. 스캔한 효과를 줘서 조명 영 제거  
