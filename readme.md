@@ -1,6 +1,6 @@
 # OpenCV 공부하기
 
-![](https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png)
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/53/OpenCV_Logo_with_text.png" width="25%"/>
 
 ## 개요
 
