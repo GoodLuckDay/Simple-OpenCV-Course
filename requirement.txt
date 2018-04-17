@@ -1,4 +1,8 @@
+click==6.7
 cycler==0.10.0
+dlib==19.10.0
+face-recognition==1.2.2
+face-recognition-models==0.3.0
 kiwisolver==1.0.1
 matplotlib==2.2.2
 numpy==1.14.2
