@@ -17,4 +17,4 @@ OpenCV(Open Source Computer Vision)은 Computer Vision 관련 프로그래밍을
 > 4. [스캔한 효과를 줘서 조명 영 제거](https://github.com/GoodLuckDay/OpenCV-Study/tree/master/%EC%A1%B0%EB%AA%85%EC%98%81%ED%96%A5%20%EC%A0%9C%EA%B1%B0)
 > 5. [명함 인식 구현](https://github.com/GoodLuckDay/OpenCV-Study/tree/master/%EB%AA%85%ED%95%A8%EC%9D%B8%EC%8B%9D%20%EA%B5%AC%ED%98%84%ED%95%98%EA%B8%B0)
 > 6. [글자인식(OCR) 기술 이용하기!](https://github.com/GoodLuckDay/OpenCV-Study/tree/master/%EA%B8%80%EC%9E%90%EC%9D%B8%EC%8B%9D%20%EC%9D%B4%EC%9A%A9%ED%95%98%EA%B8%B0)
-> 7. [얼굴 인식]()
+> 7. [얼굴 인식](https://github.com/GoodLuckDay/OpenCV-Study/tree/master/%EC%96%BC%EA%B5%B4%20%EC%9D%B8%EC%8B%9D)
